@@ -113,3 +113,4 @@ Rafael Castro      | [linkedin.com/in/rafael-castro-32956510b](https://www.linke
 Victor Perin          | --                                                                                                     | [github.com/victorperin](https://github.com/victorperin)                      | [victorperin.ninja](http://victorperin.ninja)|
 Wesley Lopes | [linkedin.com/in/weslopes](https://www.linkedin.com/in/weslopes/)       | [github.com/weslopes](https://github.com/weslopes) | -- |
 Wharley Ornelas       | [linkedin.com/in/wharleyornelas](https://www.linkedin.com/in/wharley-ornelas-da-rocha-65420932/)       | [github.com/wharley](https://github.com/wharley)                              | [wharleyornelas](http://wharleyornelas.com)
+| Emerson Lopes | [Emerson Lopes](https://linkedin.com/in/lupuselit) | [lupuselit](https://github.com/lupuselit) | [Porfolio](https://lupuselit.github.io.com) |
