@@ -73,6 +73,7 @@ All content **must** be arranged in alphabetical order.
 ### marketplace
 
 * [GetNinjas](https://www.getninjas.com.br/)
+* [Cotabox](https://cotabox.com.br/)
 
 ### portals
 * [HBSIS](https://hbsis.com.br/)
@@ -114,3 +115,5 @@ Victor Perin          | --                                                      
 Wesley Lopes | [linkedin.com/in/weslopes](https://www.linkedin.com/in/weslopes/)       | [github.com/weslopes](https://github.com/weslopes) | -- |
 Wharley Ornelas       | [linkedin.com/in/wharleyornelas](https://www.linkedin.com/in/wharley-ornelas-da-rocha-65420932/)       | [github.com/wharley](https://github.com/wharley)                              | [wharleyornelas](http://wharleyornelas.com)
 | Emerson Lopes | [Emerson Lopes](https://linkedin.com/in/lupuselit) | [lupuselit](https://github.com/lupuselit) | [Porfolio](https://lupuselit.github.io.com) |
+| Leonardo Turbiani | [Leonardo Turbiani](https://www.linkedin.com/in/leonardoturbiani/) | [turbiani](https://github.com/turbiani) | -- |
+| João Cavalcante | [João Cavalcante](https://www.linkedin.com/in/kavalcante/) | [kavalcante](https://github.com/kavalcante) | [kavalcante.com](https://kavalcante.com) |
