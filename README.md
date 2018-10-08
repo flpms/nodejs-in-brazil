@@ -83,6 +83,10 @@ All content **must** be arranged in alphabetical order.
 * [Sprinklr](https://www.sprinklr.com/pt-br/)
 * [Squid](https://squidit.com.br)
 
+### Chat and communication
+
+* [RocketChat](https://rocket.chat/)
+
 ## Brazilian projects using Nodejs
 
 * [Azk](http://azk.io)
@@ -91,6 +95,7 @@ All content **must** be arranged in alphabetical order.
 * [CEP API](https://github.com/lagden/cep-koa-api)
 * [Wcode](https://github.com/fmsouza/wcode)
 * [boleto-br](https://github.com/boleto-br)
+* [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
 
 
 ## Nodejs Dev's
@@ -117,3 +122,4 @@ Wharley Ornelas       | [linkedin.com/in/wharleyornelas](https://www.linkedin.co
 | Emerson Lopes | [Emerson Lopes](https://linkedin.com/in/lupuselit) | [lupuselit](https://github.com/lupuselit) | [Porfolio](https://lupuselit.github.io.com) |
 | Leonardo Turbiani | [Leonardo Turbiani](https://www.linkedin.com/in/leonardoturbiani/) | [turbiani](https://github.com/turbiani) | -- |
 | João Cavalcante | [João Cavalcante](https://www.linkedin.com/in/kavalcante/) | [kavalcante](https://github.com/kavalcante) | [kavalcante.com](https://kavalcante.com) |
+| Gabriel Engel | [Gabriel Engel](https://www.linkedin.com/in/gabrielengel/) | [engelgabriel](https://github.com/engelgabriel) | -- |
