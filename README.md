@@ -116,6 +116,7 @@ Matheus Fidelis       | [linkedin.com/in/msfidelis](https://www.linkedin.com/in/
 Thiago Santos         | --                                                                                                     | [github.com/thiamsantos](https://github.com/thiamsantos)                      | --
 Thiago Lagden         | [br.linkedin.com/in/lagden](https://br.linkedin.com/in/lagden)                                         | [github.com/lagden](https://github.com/lagden)                                | [lagden.in](http://lagden.in)
 Rafael Castro      | [linkedin.com/in/rafael-castro-32956510b](https://www.linkedin.com/in/rafael-castro-32956510b/)       | [github.com/RafaelC457ro](https://github.com/RafaelC457ro)                              | 
+| Vitor Henckel | [Vitor Henckel](https://github.com/vhenckel/) | [vitor.henckel](https://vitor.henckel.com.br) | -- |
 Victor Perin          | --                                                                                                     | [github.com/victorperin](https://github.com/victorperin)                      | [victorperin.ninja](http://victorperin.ninja)|
 Wesley Lopes | [linkedin.com/in/weslopes](https://www.linkedin.com/in/weslopes/)       | [github.com/weslopes](https://github.com/weslopes) | -- |
 Wharley Ornelas       | [linkedin.com/in/wharleyornelas](https://www.linkedin.com/in/wharley-ornelas-da-rocha-65420932/)       | [github.com/wharley](https://github.com/wharley)                              | [wharleyornelas](http://wharleyornelas.com)
