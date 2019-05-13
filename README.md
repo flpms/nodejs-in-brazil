@@ -63,6 +63,7 @@ All content **must** be arranged in alphabetical order.
 ### e-commerces
 
 * [LojasKD](https://www.lojaskd.com.br/)
+* [tegcommerce](https://github.com/tegcommerce)
 
 ### fintechs
 
