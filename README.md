@@ -125,3 +125,4 @@ Wharley Ornelas       | [linkedin.com/in/wharleyornelas](https://www.linkedin.co
 | Leonardo Turbiani | [Leonardo Turbiani](https://www.linkedin.com/in/leonardoturbiani/) | [turbiani](https://github.com/turbiani) | -- |
 | João Cavalcante | [João Cavalcante](https://www.linkedin.com/in/kavalcante/) | [kavalcante](https://github.com/kavalcante) | [kavalcante.com](https://kavalcante.com) |
 | Gabriel Engel | [Gabriel Engel](https://www.linkedin.com/in/gabrielengel/) | [engelgabriel](https://github.com/engelgabriel) | -- |
+| Filipe Silva | [Filipe Silva](https://www.linkedin.com/in/flpms/) | [flpms](https://github.com/flpms) | [flpms.me](https://flpms.me) |
